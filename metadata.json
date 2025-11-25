@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of ComfyUI Workflow Resource Manager",
+  "description": "Analyze ComfyUI workflow files to identify, categorize, and generate bulk download scripts for missing models, LoRAs, and custom nodes using Gemini AI.",
+  "requestFramePermissions": []
+}
